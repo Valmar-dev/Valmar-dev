@@ -1,5 +1,4 @@
-## 👋 Olá, me chamo Valmar, sou iniciante na programação!
-
+## 👋 Hi, my name is Valmar, i'm a beginner in programming
 <div> 
   <a href="https://instagram.com/valmar_ponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
